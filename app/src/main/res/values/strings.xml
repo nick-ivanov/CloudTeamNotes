@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TeamNotes</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="hello_blank_fragment">TEAM NOTES SETTINGS</string>
+    <string name="settings_name">Preferred name:</string>
+    <string name="settings_server">Server:</string>
+    <string name="settings_token">Secure token:</string>
+    <string name="settings_pwd">Encryption key:</string>
+    <string name="dialog_no_connection">Cannot connect to server!</string>
+    <string name="oops">Oops...</string>
+</resources>

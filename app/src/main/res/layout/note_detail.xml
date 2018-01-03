@@ -1,0 +1,11 @@
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:id="@+id/note_detail"
+          style="?android:attr/textAppearanceLarge"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:inputType="textMultiLine|textLongMessage|textWebEditText|textImeMultiLine|textNoSuggestions|text"
+          android:lines="4"
+          android:padding="16dp"
+          tools:context="nickivanov.pro.teamnotes.NoteDetailFragment"/>
+
